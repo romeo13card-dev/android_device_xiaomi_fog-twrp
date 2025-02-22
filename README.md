@@ -1,1 +1,1 @@
-# android_device_xiaomi_fog-twrp
+#Device config for TWRP Redmi 10C ( fog, rain, wind)
